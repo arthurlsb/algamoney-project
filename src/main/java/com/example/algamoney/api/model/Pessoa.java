@@ -1,6 +1,5 @@
 package com.example.algamoney.api.model;
 
-import java.beans.Transient;
 import java.util.Objects;
 
 import javax.persistence.Embedded;
